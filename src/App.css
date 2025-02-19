@@ -11,6 +11,7 @@ body{
   grid-template-rows: repeat(auto-fill);
   row-gap: 0;
 }
+
 .grid-element{
   border: 1px solid black;
   border-radius: 0%;

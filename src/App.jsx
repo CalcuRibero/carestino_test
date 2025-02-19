@@ -1,7 +1,7 @@
 import './App.css'
 import { Grid } from './components/grid'
 import { ModalColor } from './components/modal'
-import { useState, useRef, useEffect, Suspense } from 'react'
+import { useState, useRef,  Suspense } from 'react'
 
 function App() {
   const [holding, setHolding] = useState(false)
